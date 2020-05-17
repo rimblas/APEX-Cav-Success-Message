@@ -7,7 +7,7 @@
 
 ![preview](preview.gif)
 
-This Process plugin was originally imagined and created by my good friend [Gemma Wood](https://twitter.com/gemmawood) of Cavanti. Gemma entrusted me with the maintence and publishing of the plugin. I then ported it to APEX 5.1 (I'm pretty sure it would even work on APEX 4.2) so it would be compatible with as many versions of APEX as possible. 
+This Process plugin was originally imagined and created by my good friend [Gemma Wood](https://twitter.com/gemmawood) of Cavanti. Gemma entrusted me with the maintenance and publishing of the plugin. I then ported it to APEX 5.1 (I'm pretty sure it would even work on APEX 4.2) so it would be compatible with as many versions of APEX as possible. 
 
 The plugin will override the generic "Action Processed." message that we normally see from the regular Automatic DML Process and provide a better user experience by prooviding a more specific message. Users will see a personalized Success Message when you Create, Save, or Delete records. 
 
