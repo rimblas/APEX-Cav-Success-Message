@@ -4,8 +4,9 @@
 [![APEX Community](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/78c5adbe/badges/apex-community-badge.svg)](https://github.com/Dani3lSun/apex-github-badges) [![APEX Plugin](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/b7e95341/badges/apex-plugin-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
 [![APEX Built with Love](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/7919f913/badges/apex-love-badge.svg)](https://github.com/Dani3lSun/apex-github-badges)
 
+This plugin allows you to do this:
 
-![preview](preview.gif)
+![whatitdoes](/docs/cavsuccessmessage.png)
 
 This Process plugin was originally imagined and created by my good friend [Gemma Wood](https://twitter.com/gemmawood) of Cavanti. Gemma entrusted me with the maintenance and publishing of the plugin. I then ported it to APEX 5.1 (I'm pretty sure it would even work on APEX 4.2) so it would be compatible with as many versions of APEX as possible. 
 
@@ -13,6 +14,7 @@ The plugin will override the generic "Action Processed." message that we normall
 
 Plugin File [process_type_plugin_cav_success_message.sql](process_type_plugin_cav_success_message.sql)
 
+![preview](preview.gif)
 
 ## Demo App
 
